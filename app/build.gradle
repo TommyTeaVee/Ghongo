@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.qtunex.virtual.drum"
-        minSdkVersion 28
+        minSdkVersion 25
         targetSdkVersion 31
     }
 
